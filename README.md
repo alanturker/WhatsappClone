@@ -1,6 +1,6 @@
 # 📱 WhatsApp Clone
 
-A beautiful WhatsApp UI clone built with SwiftUI for iOS. This project recreates the WhatsApp interface with modern iOS design patterns and SwiftUI components.
+WhatsApp UI clone built with SwiftUI for iOS. This project recreates the WhatsApp interface with modern iOS design patterns and SwiftUI components.
 
 > **Note:** This is a UI-only implementation. Backend functionality and real messaging features are not implemented.
 
@@ -15,7 +15,6 @@ A beautiful WhatsApp UI clone built with SwiftUI for iOS. This project recreates
 ### UI Components
 - Custom tab bar with dynamic icons
 - WhatsApp-style color scheme
-- Chat bubbles with tails (incoming/outgoing)
 - Custom backgrounds and assets
 - Adaptive light/dark mode support
 
@@ -55,25 +54,13 @@ open WhatsAppClone.xcodeproj
 
 - **Custom Tab Icons**: Dynamic tab bar icons that change when selected
 - **WhatsApp Color Scheme**: Authentic WhatsApp green (#25D366) and UI colors
-- **Chat Bubbles**: Custom message bubbles with tails
 - **Background**: WhatsApp-style chat backgrounds
-- **App Icon**: Custom WhatsApp-inspired app icon
-
-## 🔄 Current Status
-
-This project currently implements:
-- ✅ Complete UI structure
-- ✅ Navigation between tabs
-- ✅ Custom assets and colors
-- ✅ SwiftUI components
 
 ## 📝 License
 
 This project is for educational purposes only. WhatsApp is a trademark of Meta Platforms, Inc.
 
 ## 👨‍💻 Author
-
-**Turker Alan**
 
 - GitHub: [@alanturker](https://github.com/alanturker)
 
