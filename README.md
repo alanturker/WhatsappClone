@@ -12,13 +12,6 @@ A beautiful WhatsApp UI clone built with SwiftUI for iOS. This project recreates
 
 ## ✨ Features
 
-### Implemented Screens
-- ✅ **Updates Tab** - Status updates view
-- ✅ **Calls Tab** - Call history interface
-- ✅ **Communities Tab** - Communities overview
-- ✅ **Chats Tab** - Main chat list interface
-- ✅ **Settings Tab** - Settings and profile configuration
-
 ### UI Components
 - Custom tab bar with dynamic icons
 - WhatsApp-style color scheme
@@ -32,10 +25,6 @@ A beautiful WhatsApp UI clone built with SwiftUI for iOS. This project recreates
 - **iOS 15.0+** - Minimum deployment target
 - **Xcode 13+** - Development environment
 - **Swift 5.5+** - Programming language
-
-## 📱 Screenshots
-
-> Add screenshots here once you have them
 
 ## 🚀 Getting Started
 
@@ -62,29 +51,6 @@ open WhatsAppClone.xcodeproj
 4. Build and run the project
    - Press `Cmd + R` or click the Play button in Xcode
 
-## 📁 Project Structure
-
-```
-WhatsAppClone/
-├── WhatsAppCloneApp.swift          # App entry point
-├── MainTabView.swift               # Main tab view controller
-├── Screens/                        # Screen views
-│   ├── Calls/                     # Calls tab
-│   ├── Chats/                     # Chats tab
-│   ├── Communities/               # Communities tab
-│   ├── Settings/                  # Settings tab
-│   └── Updates/                   # Updates tab
-├── Utilities/                      # Helper utilities
-│   └── Modifiers/                 # Custom view modifiers
-└── Assets.xcassets/               # Images and colors
-    ├── Auth/                      # Authentication assets
-    ├── Chats/                     # Chat-related assets
-    ├── Colors/                    # Color schemes
-    ├── Communities/               # Community assets
-    ├── Settings/                  # Settings assets
-    └── Updates/                   # Updates assets
-```
-
 ## 🎨 Design Features
 
 - **Custom Tab Icons**: Dynamic tab bar icons that change when selected
@@ -101,24 +67,6 @@ This project currently implements:
 - ✅ Custom assets and colors
 - ✅ SwiftUI components
 
-Not yet implemented:
-- ❌ Backend integration
-- ❌ Real-time messaging
-- ❌ User authentication
-- ❌ Database connectivity
-- ❌ Push notifications
-- ❌ Media sharing
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to add features or improve the UI:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is for educational purposes only. WhatsApp is a trademark of Meta Platforms, Inc.
@@ -127,7 +75,7 @@ This project is for educational purposes only. WhatsApp is a trademark of Meta P
 
 **Turker Alan**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@alanturker](https://github.com/alanturker)
 
 ## 🙏 Acknowledgments
 
@@ -138,4 +86,3 @@ This project is for educational purposes only. WhatsApp is a trademark of Meta P
 ---
 
 **Note:** This is a learning project and is not affiliated with or endorsed by WhatsApp or Meta Platforms, Inc.
-
